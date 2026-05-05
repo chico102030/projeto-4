@@ -10,3 +10,10 @@ img {
     width: 488px;
     height: 550px;
 }
+a {
+    width: 300px;
+    height: 200px;
+    background-color: #22D4FD;
+    border-radius: 16px;
+    padding: 16px;
+}
